@@ -1,24 +1,25 @@
 
 ## Features
 
-- Fetches posts from the JSONPlaceholder API
-- Displays a list of posts
-- Allows users to add new posts
-- Uses Redux for state management
+- Displays a list of posts from API Post JSON Placeholder
+- Allow users to add new posts
+- Use Redux for state management
 
 ## Project Structure
 
 - `src/components`
 - `src/redux`
 - `App.ts`
-- `index.ts`
+- `main.ts`
 - `src/constant`
+- `src/api`
 
 ## Tech 
 
 - React
 - Redux
 - React-redux
+- Redux-toolkit
 - Axios
 - JSON API
 
